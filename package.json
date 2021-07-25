@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rishabh Shah",
-  "license": "ISC",
+  "author": "SANKALP TIRWA",
+  "license": "CBSE",
   "dependencies": {
     "@angular-devkit/build-angular": "^0.1002.0",
     "body-parser": "^1.19.0",
